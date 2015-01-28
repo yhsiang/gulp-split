@@ -1,3 +1,5 @@
+#Deprecated please use [gulp-wrap-function](https://github.com/yhsiang/gulp-wrap-function)
+
 #gulp-split
 
 just split your file and remain what you want.
